@@ -32,7 +32,7 @@ echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━�
 echo -e "${grenbo}Tutorial Creat Bot and ID Telegram${NC}"
 echo -e "${grenbo}[*] Creat Bot and Token Bot : @BotFather${NC}"
 echo -e "${grenbo}[*] Info Id Telegram : @MissRose_bot , perintah /info${NC}"
-echo -e "${grenbo}[*] Bot By Burhanlovers Tunneling${NC}"
+echo -e "${grenbo}[*] Bot By CX Tunneling${NC}"
 echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 read -e -p "[*] Input your Bot Token : " bottoken
 read -e -p "[*] Input Your Id Telegram :" admin
@@ -45,7 +45,7 @@ clear
 
 cat > /etc/systemd/system/regis.service << END
 [Unit]
-Description=Simple register - @Burhanssh
+Description=Simple register - @CX
 After=network.target
 
 [Service]
